@@ -1,4 +1,4 @@
-module html-link-parser
+module github.com/weisskaiser/learning-gophercises/html-link-parser
 
 go 1.15
 

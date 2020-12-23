@@ -1,4 +1,4 @@
-module learning/url-shortener
+module github.com/weisskaiser/learning-gophercises/url-shortener
 
 go 1.14
 
